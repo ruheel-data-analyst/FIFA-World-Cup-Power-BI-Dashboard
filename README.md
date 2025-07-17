@@ -35,8 +35,8 @@ This project transforms raw data into meaningful insights such as winners, hosti
 
 ## 🖼️ Dashboard Preview
 
-📷 **Click below to view the interactive dashboard preview:**  
-🔗 [FIFA World Cup Dashboard Preview](https://github.com/ruheel-data-analyst/FIFA-World-Cup-Power-BI-Dashboard/commit/4ca1a6f4684f2360102ee8660091dfaeb04b00e9#diff-56f397ffe2f9a1e300fe060fcc7dd02e784d12b9084558b8bbefe5770fec77d5)
+📷 
+![FIFA World Cup Power BI Dashboard](https://github.com/ruheel-data-analyst/FIFA-World-Cup-Power-BI-Dashboard/blob/main/FIFA%20World%20Cup%20Power%20BI%20Dashboard.png)
 
 ---
 
